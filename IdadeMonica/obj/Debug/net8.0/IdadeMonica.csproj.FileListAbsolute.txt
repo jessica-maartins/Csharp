@@ -1,0 +1,14 @@
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\IdadeMonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\IdadeMonica.AssemblyInfoInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\IdadeMonica.AssemblyInfo.cs
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\IdadeMonica.csproj.CoreCompileInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\bin\Debug\net8.0\IdadeMonica.exe
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\bin\Debug\net8.0\IdadeMonica.deps.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\bin\Debug\net8.0\IdadeMonica.runtimeconfig.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\bin\Debug\net8.0\IdadeMonica.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\bin\Debug\net8.0\IdadeMonica.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\IdadeMonica.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\refint\IdadeMonica.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\IdadeMonica.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\IdadeMonica.genruntimeconfig.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\IdadeMonica\obj\Debug\net8.0\ref\IdadeMonica.dll

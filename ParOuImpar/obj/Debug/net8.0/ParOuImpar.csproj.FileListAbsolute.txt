@@ -1,0 +1,14 @@
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\bin\Debug\net8.0\ParOuImpar.exe
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\bin\Debug\net8.0\ParOuImpar.deps.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\bin\Debug\net8.0\ParOuImpar.runtimeconfig.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\bin\Debug\net8.0\ParOuImpar.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\bin\Debug\net8.0\ParOuImpar.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\ParOuImpar.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\refint\ParOuImpar.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\ParOuImpar.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\ParOuImpar\obj\Debug\net8.0\ref\ParOuImpar.dll

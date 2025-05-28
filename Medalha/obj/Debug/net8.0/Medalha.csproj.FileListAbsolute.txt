@@ -1,0 +1,14 @@
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\bin\Debug\net8.0\Medalha.exe
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\bin\Debug\net8.0\Medalha.deps.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\bin\Debug\net8.0\Medalha.runtimeconfig.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\bin\Debug\net8.0\Medalha.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\bin\Debug\net8.0\Medalha.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\Medalha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\Medalha.AssemblyInfoInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\Medalha.AssemblyInfo.cs
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\Medalha.csproj.CoreCompileInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\Medalha.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\refint\Medalha.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\Medalha.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\Medalha.genruntimeconfig.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Medalha\obj\Debug\net8.0\ref\Medalha.dll

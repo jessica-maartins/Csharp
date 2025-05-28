@@ -1,0 +1,14 @@
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\bin\Debug\net8.0\BasqueteRobo.exe
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\bin\Debug\net8.0\BasqueteRobo.deps.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\bin\Debug\net8.0\BasqueteRobo.runtimeconfig.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\bin\Debug\net8.0\BasqueteRobo.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\bin\Debug\net8.0\BasqueteRobo.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\BasqueteRobo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\BasqueteRobo.AssemblyInfoInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\BasqueteRobo.AssemblyInfo.cs
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\BasqueteRobo.csproj.CoreCompileInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\BasqueteRobo.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\refint\BasqueteRobo.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\BasqueteRobo.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\BasqueteRobo.genruntimeconfig.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\BasqueteRobo\obj\Debug\net8.0\ref\BasqueteRobo.dll

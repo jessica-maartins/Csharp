@@ -1,0 +1,14 @@
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\bin\Debug\net8.0\Cartas.exe
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\bin\Debug\net8.0\Cartas.deps.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\bin\Debug\net8.0\Cartas.runtimeconfig.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\bin\Debug\net8.0\Cartas.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\bin\Debug\net8.0\Cartas.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\Cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\Cartas.AssemblyInfoInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\Cartas.AssemblyInfo.cs
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\Cartas.csproj.CoreCompileInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\Cartas.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\refint\Cartas.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\Cartas.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\Cartas.genruntimeconfig.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Cartas\obj\Debug\net8.0\ref\Cartas.dll

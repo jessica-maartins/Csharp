@@ -1,0 +1,14 @@
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\bin\Debug\net8.0\Funcoes.exe
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\bin\Debug\net8.0\Funcoes.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\Funcoes.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+C:\Users\jessica.mgjorge\OneDrive - SENAC - SP\Área de Trabalho\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll
