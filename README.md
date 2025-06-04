@@ -42,15 +42,6 @@ Pretendo usar esse espaço para:
 - Evoluir na jornada de programação! 🚀✨
 
 
-✨ Futuro
-
-Em breve, vou incluir:
-- Projetos pequenos em console 📦
-- Exercícios com banco de dados 🗃️
-- Interfaces gráficas com WinForms/WPF 🖼️
-- Anotações e resumos 📒
-
-
 📩 Contato
 
 Se quiser trocar ideias ou colaborar:
